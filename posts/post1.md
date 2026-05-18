@@ -4,7 +4,7 @@ date: 2026-03-27
 author: Chanel Christy Pei
 summary: This blog post explores my early interpretation of the design brief and the development of initial community hub concepts.
 tags:
-  - one
+  - design brief
   - two
   - three
 ---
