@@ -9,3 +9,5 @@ tags:
   - tag3
 ---
 Write your content here.
+
+# Blog Post 1: Early Ideation
