@@ -2,7 +2,7 @@
 title: Blog 2
 date: 2026-02-14
 author: Chanel Christy Pei
-summary: Short description
+summary: Short description ..
 tags:
   - tag1
   - tag2
