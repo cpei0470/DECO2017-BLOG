@@ -2,11 +2,10 @@
 title: Blog post 1 - Early ideation
 date: 2026-03-27
 author: Chanel Christy Pei
-summary: This blog post explores my early interpretation of the design brief and the development of initial community hub concepts.
+summary: This blog is about my early interpretation of the design brief and the development of my initial community hub concepts.
 tags:
   - design brief
-  - two
-  - three
+  - early ideation
 ---
 When reading the design brief, I interpreted a ‘community hub’ as more than a simple social media platform. I thought of it as a digital space where people can connect through shared interests, routines and experiences. This made me think about what kinds of communities I could focus on for this design brief. 
 
@@ -17,7 +16,3 @@ From there, we shifted our thinking towards communities shaped by accessibility,
 At this stage, we did not want the platform to function purely as a marketplace or advertising space. One thing I am still exploring is how the design could encourage genuine community interaction rather than only transactions between users and businesses. Possible ideas could involve recommendations, sharing experiences, or local discussions that help smaller businesses gain visibility through community engagement rather than only paid promotion.
 
 Moving forward, I want to continue researching existing social platforms that may relate to our target audience, while also exploring the core functions and ethical considerations required for the platform. I am particularly interested in how the design could encourage genuine interaction rather than becoming overly transactional or commercialised.
-
-```text
-
-```

@@ -1,12 +1,12 @@
 ---
-title: Blog 2
+title: Blog 2 - Core Functional Requirements
 date: 2026-02-14
 author: Chanel Christy Pei
-summary: Short description ..
+summary: This blog outlines the core functional requirements of the platform.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - core functions
+  - user needs
+  - feasibility
 ---
 As my teammate and I developed our concept further, I began thinking about the core functional requirements. Since BlaBla Corp already manages the profile and login system, I understood that I need to focus on the experience inside the platform itself. This shift moved my attention towards discovery, communication, accessibility, and trust between community members.
 
