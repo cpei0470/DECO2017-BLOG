@@ -22,3 +22,5 @@ To better understand and test the interaction flow between users and providers, 
 From this, we began refining the system flow. From the provider perspective, the flow involves creating a service profile, uploading listings, and responding to user messages. From the user perspective, since the BlaBla Corp system already provides login and user profiles, users directly enter the platform and begin with browsing. The user flow includes searching or filtering services on the search page, using the search bar for specific needs, viewing individual listings, opening provider profiles, and then initiating contact through messaging to make a booking or enquiry.
 
 This helped us understand the platform more clearly as a service interaction system rather than a signup-based application, where the main focus is on discovery and communication.
+
+source: https://local2local.com.au/ 
